@@ -228,17 +228,20 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 + Current Member:
   + Ph.D. Candidates (2020-now): Peng Huang
   + Ph.D. Candidates (2021-now): Binqian Xu
-  + Ph.D. Candidates (2022-now): Guangzhao Dai
+  + Ph.D. Candidates (2022-now): Guangzhao Dai, Xingyu Zhu
   + Ph.D. Candidates (2023-now): Pengpeng Li, Meiqi Cao
-  + M.S. Candidates (2021-now): Keke Chen, Zhewei Tu
-  + M.S. Candidates (2022-now): Hailiang Gao, Wei Liu, Yunguo Ma
-  + M.S. Candidates (2023-now): Jinjin Gong, Luying Peng, Hongyu Qu, Yumeng Su
+  + Ph.D. Candidates (2024-now): Zhixuan Li, Chengjian Li, Jinjin Gong, Hongyu Qu
+  + Ph.D. Candidates (2025-now): Qun Dai, Fei Feng, Yuanqing Wang
+  + M.S. Candidates (2023-now):  Luying Peng, Yumeng Su
+  + M.S. Candidates (2024-now): Chenghao Hu, Yiran Yang, Zheng Yin, Jingyuan Wang, Wenxuan Ge
 + Alumni:
   + Ph.D. Candidates (2013-2020): Mengyin Wang
   + Ph.D. Candidates (2017-2022): Rui Yan
   + M.S. Candidates (2018-2021): Chenglong Shi, Ruipeng Zhang
   + M.S. Candidates (2019-2022): Jing Ding, Boning Li, Qian Jiang, Xiangyu Zhao
   + M.S. Candidates (2021-2023): Jiawen Yang, Yafei Cui
+  + M.S. Candidates (2021-2024): Keke Chen, Zhewei Tu, Xiaojing Ge, Longjie Guo
+  + M.S. Candidates (2022-2025): Hailiang Gao, Wei Liu, Yunguo Ma
 <span class='anchor' id='Service'></span>
 
 # <font color="#2B6ADD"> Academic Service </font>
