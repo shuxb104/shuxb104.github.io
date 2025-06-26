@@ -39,8 +39,9 @@ Video understanding, Action analysis, and related human-centric problems in Comp
 
 <span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
+- Four papers have been accepted by ICCV 2025.
 - One paper "Reliable and Diverse Hierarchical Adapter for Zero-shot Video Classification" has been accepted by IJCAI 2025.
-- I was invited to be an Area Chair for ACM MM 2025.
+I was invited to serve as an Area Chair for ACM MM 2025.
 - Two Papers have been published in TNNLS 2025.
 - One paper "Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection" has been accepted by CVPR 2025.
 - One paper "Surgical video workflow analysis via visual-language learning" has been accepted by npj Health Systems.
