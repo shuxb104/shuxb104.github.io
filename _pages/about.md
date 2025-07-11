@@ -68,7 +68,7 @@ I was invited to serve as an Area Chair for ACM MM 2025.
 <table align="center" border="none">
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="../images/EMP.png"/>
+        <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -98,7 +98,7 @@ I was invited to serve as an Area Chair for ACM MM 2025.
         </p>
       </td>
     </tr>
-    <tr>
+
     <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/DoFIT.png"/>
