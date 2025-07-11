@@ -66,7 +66,39 @@ I was invited to serve as an Area Chair for ACM MM 2025.
 </style>
 
 <table align="center" border="none">
-
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/EMP.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Zhixuan Li, Binqian Xu, <b>Xiangbo Shu*</b>, Jiachao Zhang, Yazhou Yao, Guosen Xie, Jinhui Tang. Tensor-aggregated LoRA in Federated Fine-tuning. IEEE International Conference on Computer Vision (ICCV), 2025.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/EMP.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Meiqi Cao, <b>Xiangbo Shu*</b>, Xin jiang, Rui Yan, Yazhou Yao, Jinhui Tang. Exploiting Frequency Dynamics for Enhanced Multimodal Event-based Action Recognition. IEEE International Conference on Computer Vision (ICCV), 2025.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/cluspro.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Hongyu Qu, Jianan Wei, <b>Xiangbo Shu*</b>, Wenguan Wang. Learning Clustering-based Prototypes for Compositional Zero-shot Learning. The Thirteenth International Conference on Learning Representations (ICLR), 2025.
+        <a href="https://arxiv.org/pdf/2502.06501">[PDF-Link]</a>
+        <a href="https://github.com/quhongyu/ClusPro">[Code-Link]</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
     <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/DoFIT.png"/>
@@ -229,10 +261,9 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 # <font color="#2B6ADD"> Team </font>
 + Current Member:
   + Ph.D. Candidates (2020-now): Peng Huang
-  + Ph.D. Candidates (2021-now): 
   + Ph.D. Candidates (2022-now): Guangzhao Dai, <a href="https://1xbq1.github.io/">Binqian Xu</a>
   + Ph.D. Candidates (2023-now): Pengpeng Li, Meiqi Cao, Xingyu Zhu
-  + Ph.D. Candidates (2024-now): Zhixuan Li, Chengjian Li, Jinjin Gong, <a href="https://quhongyu.github.io/">Hongyu Qu</a>
+  + Ph.D. Candidates (2024-now): Zhixuan Li, <a href="https://chengjian-li.github.io/">Chengjian Li</a>, Jinjin Gong, <a href="https://quhongyu.github.io/">Hongyu Qu</a>
   + Ph.D. Candidates (2025-now): Qun Dai, Fei Feng, Yuanqing Wang, Zheng Wang
   + M.S. Candidates (2023-now):  Luying Peng, Yumeng Su
   + M.S. Candidates (2024-now): Chenghao Hu, Yiran Yang, Zheng Yin, Jingyuan Wang, Wenxuan Ge
