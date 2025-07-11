@@ -66,6 +66,7 @@ I was invited to serve as an Area Chair for ACM MM 2025.
 </style>
 
 <table align="center" border="none">
+
     <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/DoFIT.png"/>
@@ -228,11 +229,11 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 # <font color="#2B6ADD"> Team </font>
 + Current Member:
   + Ph.D. Candidates (2020-now): Peng Huang
-  + Ph.D. Candidates (2021-now): Binqian Xu
-  + Ph.D. Candidates (2022-now): Guangzhao Dai, Xingyu Zhu
-  + Ph.D. Candidates (2023-now): Pengpeng Li, Meiqi Cao
-  + Ph.D. Candidates (2024-now): Zhixuan Li, Chengjian Li, Jinjin Gong, Hongyu Qu
-  + Ph.D. Candidates (2025-now): Qun Dai, Fei Feng, Yuanqing Wang
+  + Ph.D. Candidates (2021-now): 
+  + Ph.D. Candidates (2022-now): Guangzhao Dai, <a href="https://1xbq1.github.io/">Binqian Xu</a>
+  + Ph.D. Candidates (2023-now): Pengpeng Li, Meiqi Cao, Xingyu Zhu
+  + Ph.D. Candidates (2024-now): Zhixuan Li, Chengjian Li, Jinjin Gong, <a href="https://quhongyu.github.io/">Hongyu Qu</a>
+  + Ph.D. Candidates (2025-now): Qun Dai, Fei Feng, Yuanqing Wang, Zheng Wang
   + M.S. Candidates (2023-now):  Luying Peng, Yumeng Su
   + M.S. Candidates (2024-now): Chenghao Hu, Yiran Yang, Zheng Yin, Jingyuan Wang, Wenxuan Ge
 + Alumni:
