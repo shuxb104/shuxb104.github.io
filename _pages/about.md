@@ -29,7 +29,7 @@ I am currently a Professor in
 
 # <font color="#2B6ADD" > Researh Interests </font>
 <p style="font-family: Roboto;">
-Video understanding, Action analysis, and related human-centric problems in Computer Vision and Multimedia.</p>
+Human Behavior Computing, Video understanding, Action analysis, and other related human-centric problems in Artificial Intelligence, Computer Vision and Multimedia.</p>
 <br>
 <font color=Brown>
 <i style="font-family: Roboto;">*Positions for Interns/Master/PhD's Programme*</i>
