@@ -252,8 +252,8 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 <span class='anchor' id='teach'></span>
 
 # <font color="#2B6ADD"> Teaching </font>
-- 2019-now, Fundamentals of Multimedia Computing, for Postgraduate.
-- 2016-now, Technology of Multimedia Computing, for Undergraduate.
+- 2019-2023, Fundamentals of Multimedia Computing, for Postgraduate.
+- 2016-2023, Technology of Multimedia Computing, for Undergraduate.
 - 2019-now, Introduction to Computers, for Undergraduate.
 
 <span class='anchor' id='team'></span>
@@ -281,6 +281,7 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 + **Associate Editors:**
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  - Pattern Recognition
   - Information Sciences
   - Visual Computer
 + **(Senior) Program Committee Member:**
