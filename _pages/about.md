@@ -301,5 +301,4 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   - Multimedia Tools and Applications
   - Pattern Recognition Letters
   - Multimedia Systems
-  - 
 
