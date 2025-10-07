@@ -19,7 +19,7 @@ main:
     url: "/#teach"
 
   - title: "Team"
-    url: "/#team"
+    url: "/team/"
 
   - title: "Academic Service"
     url: "/#Service"

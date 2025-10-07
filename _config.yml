@@ -4,12 +4,16 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+github: [metadata]
 # Site Settings
 title                    : "Xiangbo Shu"
 description              : "Ph.D., Professor "
 repository               : "shuxb104/shuxb104.github.io"
 google_scholar_stats_use_cdn : true
+
+
+url: "https://shuxb104.github.io/"
+baseurl: ""
 
 # google analytics
 google_analytics_id      :  FQfcm5oAAAAJ # get google_analytics_id from https://analytics.google.com/analytics/
