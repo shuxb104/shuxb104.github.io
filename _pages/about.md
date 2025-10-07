@@ -39,6 +39,8 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 
 <span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
+- I have been appointed as an Associate Editor (AE) for IEEE Transactions on Information Forensics and Security (TIFS).
+- Three papers have been accepted by NeurIPS 2025.
 - Four papers have been accepted by ICCV 2025.
 - One paper "Reliable and Diverse Hierarchical Adapter for Zero-shot Video Classification" has been accepted by IJCAI 2025.
 I was invited to serve as an Area Chair for ACM MM 2025.
@@ -258,27 +260,11 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
 
 <span class='anchor' id='team'></span>
 
-# <font color="#2B6ADD"> Team </font>
-+ Current Member:
-  + Ph.D. Candidates (2020-now): Peng Huang
-  + Ph.D. Candidates (2022-now): Guangzhao Dai, <a href="https://1xbq1.github.io/">Binqian Xu</a>
-  + Ph.D. Candidates (2023-now): Pengpeng Li, Meiqi Cao, Xingyu Zhu
-  + Ph.D. Candidates (2024-now): Zhixuan Li, <a href="https://chengjian-li.github.io/">Chengjian Li</a>, Jinjin Gong, <a href="https://quhongyu.github.io/">Hongyu Qu</a>
-  + Ph.D. Candidates (2025-now): Qun Dai, Fei Feng, Yuanqing Wang, Zheng Wang
-  + M.S. Candidates (2023-now):  Luying Peng, Yumeng Su
-  + M.S. Candidates (2024-now): Chenghao Hu, Yiran Yang, Zheng Yin, Jingyuan Wang, Wenxuan Ge
-+ Alumni:
-  + Ph.D. Candidates (2013-2020): Mengyin Wang
-  + Ph.D. Candidates (2017-2022): Rui Yan
-  + M.S. Candidates (2018-2021): Chenglong Shi, Ruipeng Zhang
-  + M.S. Candidates (2019-2022): Jing Ding, Boning Li, Qian Jiang, Xiangyu Zhao
-  + M.S. Candidates (2021-2023): Jiawen Yang, Yafei Cui
-  + M.S. Candidates (2021-2024): Keke Chen, Zhewei Tu, Xiaojing Ge, Longjie Guo
-  + M.S. Candidates (2022-2025): Hailiang Gao, Wei Liu, Yunguo Ma
-<span class='anchor' id='Service'></span>
+
 
 # <font color="#2B6ADD"> Academic Service </font>
 + **Associate Editors:**
+  - IEEE Transactions on Information Forensics and Security (TIFS).
   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - Pattern Recognition
@@ -315,5 +301,5 @@ For more papers, please kindly refer to [my Google Scholar page](https://scholar
   - Multimedia Tools and Applications
   - Pattern Recognition Letters
   - Multimedia Systems
-  
+  - 
 
