@@ -39,7 +39,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 
 <span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
-- I have been appointed as an Associate Editor (AE) for IEEE Transactions on Information Forensics and Security (TIFS).
+- I have been received as an Associate Editor (AE) for IEEE Transactions on Information Forensics and Security (TIFS).
 - Three papers have been accepted by NeurIPS 2025.
 - Four papers have been accepted by ICCV 2025.
 - One paper "Reliable and Diverse Hierarchical Adapter for Zero-shot Video Classification" has been accepted by IJCAI 2025.
