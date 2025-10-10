@@ -52,6 +52,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
     height:180px;
     border-radius: 8px;
     object-fit: cover;
+    margin-bottom: -1.2rem;
   }
 
   .card-title {
