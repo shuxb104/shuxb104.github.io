@@ -19,7 +19,7 @@ redirect_from:
 
 <img src="{{ '/images/logo.svg' | relative_url }}" alt="">
 
-# <font color="#2B6ADD"> Welcome to Visual Intelligence and Multimedia (VIM) Group </font>
+# <font color="#2B6ADD"> Welcome to Visual Intelligence and Multimedia (VIM) Group !</font>
 
 <p style="text-align: justify;font-family: Roboto;">
 
@@ -29,49 +29,266 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
 
 <span class='anchor' id='team'></span>
 
-# <font color="#2B6ADD"> Team Members </font>
-+ Current Member:
-  + Ph.D. Candidates (2020-now): Peng Huang
-  + Ph.D. Candidates (2022-now): Binqian Xu
-  + Ph.D. Candidates (2022-now): Guangzhao Dai
-  + Ph.D. Candidates (2023-now): Pengpeng Li
-  + Ph.D. Candidates (2023-now): Meiqi Cao
-  + Ph.D. Candidates (2023-now): Xingyu Zhu
-  + Ph.D. Candidates (2024-now): Hongyu Qu
-  + Ph.D. Candidates (2024-now): Jinjin Gong
-  + Ph.D. Candidates (2024-now): Zhixuan Li
-  + Ph.D. Candidates (2024-now): Chengjian Li
-  + Ph.D. Candidates (2025-now): Qun Dai
-  + Ph.D. Candidates (2025-now): Zheng Wang
-  + Ph.D. Candidates (2025-now): Fei Feng
-  + Ph.D. Candidates (2025-now): Yuanqing Wang
-  + M.S. Candidates (2023-now): Yumeng Su
-  + M.S. Candidates (2023-now): Luying Peng
-  + M.S. Candidates (2024-now): Wenxuan Ge
-  + M.S. Candidates (2024-now): Chenghao Hu
-  + M.S. Candidates (2024-now): Zheng Yin
-  + M.S. Candidates (2024-now): Jingyuan Wang
-  + M.S. Candidates (2024-now): Yiran Yang
-  + M.S. Candidates (2025-now): Haiyue Wei
-  + M.S. Candidates (2025-now): Hui Yang
-  + M.S. Candidates (2025-now): Bo Li
-  + M.S. Candidates (2025-now): Xinyu Liu
-  + M.S. Candidates (2025-now): Yixiang Jiang
-+ Alumni:
-  + Ph.D. Candidates (2013-2020): Mengyin Wang
-  + Ph.D. Candidates (2017-2022): Rui Yan
-  + M.S. Candidates (2018-2021): Chenglong Shi
-  + M.S. Candidates (2018-2021): Ruipeng Zhang
-  + M.S. Candidates (2019-2022): Jing Ding
-  + M.S. Candidates (2019-2022): Boning Li
-  + M.S. Candidates (2019-2022): Qian Jiang
-  + M.S. Candidates (2019-2022): Xiangyu Zhao
-  + M.S. Candidates (2021-2023): Jiawen Yang
-  + M.S. Candidates (2021-2023): Yafei Cui
-  + M.S. Candidates (2021-2024): Keke Chen
-  + M.S. Candidates (2021-2024): Zhewei Tu
-  + M.S. Candidates (2021-2024): Xiaojing Ge
-  + M.S. Candidates (2021-2024): Longjie Guo
-  + M.S. Candidates (2022-2025): Hailiang Gao
-  + M.S. Candidates (2022-2025): Wei Liu
-  + M.S. Candidates (2022-2025): Yunguo Ma
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  table, th, td {
+    border-color: transparent;
+  }
+
+  .row > .col {
+    margin-bottom: 1rem; /* 或 24px / 2rem 自行调 */
+  }
+
+  .card-body {
+    padding:0.75rem 1rem;
+    margin-bottom: 0rem;
+    padding-bottom: 0rem;
+  }
+
+  .card-img {
+    width: 130px;
+    height:180px;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+
+  .card-title {
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+  }
+
+  .card-body p {
+      font-size: 0.8rem;
+  }
+
+  .card-footer {
+      background: none;
+      border-top: none;
+      padding-bottom: 1rem;
+      padding-left: 1rem;
+      font-size: 1.4rem;  /* 默认大约是 1rem，调大即可 */
+      margin-right: 0.5rem;
+      padding-top: 0.2rem;
+      color: #333;
+      transition: transform 0.2s;
+  }
+
+  .card-footer i:hover {
+      transform: scale(1.2);
+      color: var(--lv-orange); 
+  }
+
+  .custom-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 0rem;
+  }
+
+  /* 左侧头像区域 padding 调整 */
+  .custom-card .author-avater {
+      margin-right: 20px;
+  }
+
+  /* 整体卡片上下 padding 调整 */
+  .custom-card {
+      padding: 24px 28px;
+      flex-wrap: wrap;
+      align-items: center; 
+  }
+
+  .custom-card .right span {
+      font-size: 0.85rem;
+      color: #888;
+      display: block;
+      margin-bottom: 2px;
+  }
+
+  .custom-card .right h5 {
+      font-size: 1.15rem;
+      font-weight: 600;
+      color: #d80000; 
+      margin-bottom: 6px;
+  }
+
+  .custom-card .right p {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 0;
+      line-height: 1.5;
+  }
+
+  .custom-card .intro-text {
+      font-size: 0.95rem;
+      color: #444;
+      line-height: 1.7;
+      padding-left: 16px;
+      border-left: 1px solid #eee;
+  }
+
+  /* .justify-text {
+      text-align: justify;
+      line-height: 1.8;
+      font-size: 0.95rem;
+      color: #444;
+      padding-left: 1rem;
+      border-left: 1px solid #eee;
+      hyphens: auto;
+      word-break: break-word;
+      text-indent: 2em;
+  }
+
+  .right-wrapper{
+      min-width:0;         
+  }
+
+  .social-icons {
+      display: flex;
+      gap: 12px;
+      margin-top: 8px;
+  }
+
+  .social-icons a {
+      color: #777;
+      font-size: 18px;
+      transition: color 0.2s ease;
+  }
+
+  .social-icons a:hover {
+      color: #ee7023;  /* 橙色 hover 效果，可改为品牌色 */
+  /* } */
+
+  @media (max-width: 768px) {
+      .custom-card {
+          flex-direction: column !important;
+          align-items: flex-start !important;
+      }
+
+      .custom-card > div {
+          width: 100% !important;
+          padding-right: 0 !important;
+          margin-bottom: 1rem;
+      }
+
+      .custom-card img {
+          width: 100% !important;
+          height: auto !important;
+          max-width: 240px;
+          margin-bottom: 1rem;
+      }
+
+      .right-wrapper {
+          padding-left: 0 !important;
+          border-left: none !important;
+      } */
+  }
+</style>
+
+<div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/hp.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Peng Huang</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2020 ~ Present</p>
+          </div>
+      </div> 
+    </div>
+  <div class="col">
+      <div class="card d-flex flex-column h-100">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/xbq.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Binqian Xu</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2022 ~ Present</p>
+          </div>
+      </div> 
+  </div>
+  <div class="col">
+      <div class="card d-flex flex-column h-100">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/dgz.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Guangzhao Dai</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2022 ~ Present</p>
+          </div>
+      </div> 
+  </div>
+  <div class="col">
+      <div class="card d-flex flex-column h-100">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/lpp.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">engpeng Li</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2023 ~ Present</p>
+          </div>
+      </div> 
+  </div>
+  <div class="col">
+      <div class="card d-flex flex-column h-100">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/cmq.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Meiqi Cao</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2023 ~ Present</p>
+          </div>
+      </div> 
+  </div>
+  <div class="col">
+      <div class="card d-flex flex-column h-100">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/zxy.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Xingyu Zhu</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2023 ~ Present</p>
+          </div>
+      </div> 
+  </div>
+  <div class="col">
+      <div class="card d-flex flex-column h-100">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/qhy.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Hongyu Qu</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2024 ~ Present</p>
+          </div>
+      </div> 
+  </div>
+  <div class="col">
+      <div class="card d-flex flex-column h-100">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/gjj.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Jinjin Gong</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2024 ~ Present</p>
+          </div>
+      </div> 
+  </div>
+</div>
