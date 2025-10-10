@@ -15,9 +15,17 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# <font color="#2B6ADD"> VIM Group</font>
 
-**Visual Intelligence and Multimedia (VIM)** group was founded in 2022 by Professor Xiangbo Shu and is part of the IMAG Lab. Currently, the team comprises over 20 members, including 15 Ph.D. students and more than 10 master’s students. VIM focuses on cutting-edge research in computer vision and multimedia, with primary interests in video understanding, action analysis, and human-centric vision problems. To date, the team has published extensively in top-tier venues, including IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), as well as premier conferences such as NeurIPS, ICCV, and ICLR, so on.
+
+<img src="{{ '/images/logo.svg' | relative_url }}" alt="">
+
+# <font color="#2B6ADD"> Welcome to Visual Intelligence and Multimedia (VIM) Group </font>
+
+<p style="text-align: justify;font-family: Roboto;">
+
+VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href="https://imag-njust.net/">Intelligent Media Analysis Group (IMAG)</a> built by the chief leader of Prof. <a href="https://v2.imag-njust.net/people/user/tangjinhui/">Jinhui Tang</a>. The leader of VIM@IMAG is <a href="https://shuxb104.github.io/">Xiangbo Shu</a>, a Professor at the School of Computer Science and Engineering, Nanjing University of Science and Technology, China. Based on IMAG, the primary goal of VIM@IMAG is to break through bottlenecks and to make hardcore innovations in human-centric vision problems, including Visual Perception, Visual Understanding, Model Deployment. Our team members are as follows.
+
+</p>
 
 <span class='anchor' id='team'></span>
 
