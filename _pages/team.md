@@ -372,6 +372,19 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           </div>
       </div> 
   </div>
+    <div class="col">
+      <div class="card d-flex flex-column h-100">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/drx.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Rongxing Ding</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
+              <p class="mb-neg-2">2025 ~ Present</p>
+          </div>
+      </div> 
+  </div>
   <div class="col">
       <div class="card d-flex flex-column h-100">
           <div class="px-3 mt-3">
@@ -567,9 +580,152 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
         </div>
         <div class="card-body">
             <!-- text-uppercase -->
-            <h6 class="card-title mb-0">Mengyin Wang</h6>
+            <h6 class="card-title mb-0">Chenglong Shi</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
             <p class="mb-neg-2">2018 ~ 2021</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/dj.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Jing Ding</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+            <p class="mb-neg-2">2019 ~ 2022</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/lbn.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Boning Li</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+            <p class="mb-neg-2">2019 ~ 2022</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/yjw.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Jiawen Yang</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+            <p class="mb-neg-2">2021 ~ 2023</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/cyf.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Yafei Cui</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+            <p class="mb-neg-2">2021 ~ 2023</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/ckk.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Keke Chen</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+            <p class="mb-neg-2">2021 ~ 2024</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/tzw.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Zhewei Tu</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+            <p class="mb-neg-2">2021 ~ 2024</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/gxj.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Xiaojing Ge</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+            <p class="mb-neg-2">2021 ~ 2024</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/glj.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Longjie Guo</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+            <p class="mb-neg-2">2021 ~ 2024</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/ghl.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Hailiang Gao</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+            <p class="mb-neg-2">2022 ~ 2025</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/myg.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Yunguo Ma</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+            <p class="mb-neg-2">2022 ~ 2025</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/lw.jpg' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Wei Liu</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidates</p>
+            <p class="mb-neg-2">2022 ~ 2025</p>
         </div>
     </div> 
   </div>
