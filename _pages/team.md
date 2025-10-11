@@ -563,6 +563,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Mengyin Wang</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. (2013 ~ 2020)</p>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">DLNU</p>
         </div>
     </div> 
   </div>
@@ -575,7 +576,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Rui Yan</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. (2017 ~ 2022)</p>
-
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Professor in NJUST</p>
         </div>
     </div> 
   </div>
@@ -588,7 +589,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Chenglong Shi</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2018 ~ 2021)</p>
-
+            
         </div>
     </div> 
   </div>
@@ -601,6 +602,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Jing Ding</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2019 ~ 2022)</p>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Aibaba</p>
         </div>
     </div> 
   </div>
@@ -613,6 +615,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Boning Li</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2019 ~ 2022)</p>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Shenyang Fire and Rescue Brigade</p>
         </div>
     </div> 
   </div>
@@ -625,6 +628,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Jiawen Yang</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2021 ~ 2023)</p>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">IDATA, Hefei</p>
         </div>
     </div> 
   </div>
@@ -637,7 +641,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Yafei Cui</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2021 ~ 2023)</p>
-            
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Tonghuashun, Zhejiang</p>
         </div>
     </div> 
   </div>
@@ -650,7 +654,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Keke Chen</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2021 ~ 2024)</p>
-
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Hikvision, Hangzhou</p>
         </div>
     </div> 
   </div>
@@ -663,7 +667,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Zhewei Tu</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2021 ~ 2024)</p>
-           
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Huawei, Nanjing</p>
         </div>
     </div> 
   </div>
@@ -676,7 +680,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Xiaojing Ge</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2021 ~ 2024)</p>
-
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Agricultural Bank of China, Ningbo</p>
         </div>
     </div> 
   </div>
@@ -689,6 +693,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Longjie Guo</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2021 ~ 2024)</p>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Shanghai Institute of Satellite Engineering</p>
         </div>
     </div> 
   </div>
@@ -701,7 +706,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Hailiang Gao</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2022 ~ 2025)</p>
-
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Huawei, Shanghai</p>
         </div>
     </div> 
   </div>
@@ -714,7 +719,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Yunguo Ma</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2022 ~ 2025)</p>
-            
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">HONOR, Nanjing</p>
         </div>
     </div> 
   </div>
@@ -727,7 +732,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Wei Liu</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2022 ~ 2025)</p>
-            
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">SEU</p>
         </div>
     </div> 
   </div>
