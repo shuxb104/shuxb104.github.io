@@ -589,7 +589,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Chenglong Shi</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2018 ~ 2021)</p>
-            
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">SAP, China</p>
         </div>
     </div> 
   </div>
