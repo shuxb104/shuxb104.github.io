@@ -212,7 +212,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
-              <h6 class="card-title mb-0">Binqian Xu</h6>
+              <h6 class="card-title mb-0"><a href="https://1xbq1.github.io/">Binqian Xu</a></h6>
               <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidate</p>
               <p class="mb-neg-2">2022 ~ Present</p>
           </div>
@@ -278,7 +278,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
-              <h6 class="card-title mb-0">Hongyu Qu</h6>
+              <h6 class="card-title mb-0"><a href="https://quhongyu.github.io/">Hongyu Qu</a></h6>
               <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidate</p>
               <p class="mb-neg-2">2024 ~ Present</p>
           </div>
@@ -317,7 +317,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
-              <h6 class="card-title mb-0">Chengjian Li</h6>
+              <h6 class="card-title mb-0"><a href="https://chengjian-li.github.io/">Chengjian Li</a></h6>
               <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(co-supervise)</p>
               <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidate</p>
               <p class="mb-neg-2">2024 ~ Present</p>
