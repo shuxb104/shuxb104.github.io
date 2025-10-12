@@ -596,6 +596,19 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   <div class="col">
     <div class="card d-flex flex-column h-100 text-center">
         <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/zrp.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Ruipeng Zhang</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2018 ~ 2021)</p>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ningbo Municipal Government</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100 text-center">
+        <div class="px-3 mt-3">
           <img src="{{ '/images/team/alumni/dj.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
         </div>
         <div class="card-body">
@@ -609,6 +622,19 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   <div class="col">
     <div class="card d-flex flex-column h-100 text-center">
         <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/jq.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Qian Jiang</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2019 ~ 2022)</p>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">H3C, Hangzhou</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100 text-center">
+        <div class="px-3 mt-3">
           <img src="{{ '/images/team/alumni/lbn.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
         </div>
         <div class="card-body">
@@ -616,6 +642,19 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
             <h6 class="card-title mb-0">Boning Li</h6>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2019 ~ 2022)</p>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Shenyang Fire and Rescue Brigade</p>
+        </div>
+    </div> 
+  </div>
+  <div class="col">
+    <div class="card d-flex flex-column h-100 text-center">
+        <div class="px-3 mt-3">
+          <img src="{{ '/images/team/alumni/zxy.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+        </div>
+        <div class="card-body">
+            <!-- text-uppercase -->
+            <h6 class="card-title mb-0">Xiangyu Zhao</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2019 ~ 2022)</p>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">ZTE Corporation</p>
         </div>
     </div> 
   </div>
