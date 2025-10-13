@@ -562,6 +562,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
         <div class="card-body">
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Mengyin Wang</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(co-supervise)</p>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. (2013 ~ 2020)</p>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">DLNU</p>
         </div>
@@ -575,6 +576,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
         <div class="card-body">
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Rui Yan</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(co-supervise)</p>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. (2017 ~ 2022)</p>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Professor in NJUST</p>
         </div>
@@ -692,6 +694,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
         <div class="card-body">
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Keke Chen</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(co-supervise)</p>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2021 ~ 2024)</p>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Hikvision, Hangzhou</p>
         </div>
@@ -770,6 +773,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
         <div class="card-body">
             <!-- text-uppercase -->
             <h6 class="card-title mb-0">Wei Liu</h6>
+            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(co-supervise)</p>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2022 ~ 2025)</p>
             <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">SEU</p>
         </div>
