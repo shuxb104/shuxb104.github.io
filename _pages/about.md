@@ -39,6 +39,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 
 <span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
+- One paper has received the Best Paper Award at CCBR 2025.
 - Two papers (The first authors are PhD candidates from NJUST) have been accepted by AAAI 2026.
 - I have received the Associate Editor (AE) of IEEE Transactions on Information Forensics and Security (TIFS).
 - Three papers have been accepted by NeurIPS 2025.
