@@ -39,6 +39,10 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 
 <span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
+- [Feb. 2026] Three papers for Vision-and-Language Navigation, Event-based Action Recognition, and Condensed Test-Time Adaptation of VLMs have been accepted by CVPR 2026.
+- [Feb. 2026] One paper for continuous action recognition has been accepted by IEEE TMM.
+- [Feb. 2026] One paper for human generation has been accepted by IEEE TNNLS.
+- [Feb. 2026] One paper for spatiotemporal prompt has been accepted by IEEE TPAMI.
 - One paper has received the Best Paper Award at CCBR 2025.
 - Two papers (The first authors are PhD candidates from NJUST) have been accepted by AAAI 2026.
 - I have received the Associate Editor (AE) of IEEE Transactions on Information Forensics and Security (TIFS).
