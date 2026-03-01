@@ -187,7 +187,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   }
 </style>
 
-# <font color="#2B6ADD"> Faculty Member </font>
+# <font color="#2B6ADD"> Faculty Members </font>
 <div class="row custom-grid">
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
@@ -210,7 +210,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   </div>
 </div>
 
-# <font color="#2B6ADD"> Current Student </font>
+# <font color="#2B6ADD"> Current Students </font>
 
 <div class="row custom-grid">
   <div class="col">
@@ -545,7 +545,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   </div>
 </div>
 
-# <font color="#2B6ADD"> Alumni Member </font>
+# <font color="#2B6ADD"> Alumni Members </font>
 
 
 <div class="row custom-grid">
