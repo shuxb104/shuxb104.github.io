@@ -39,26 +39,44 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 
 <span class='anchor' id='news'></span>
 # <font color="#2B6ADD"> News </font>
-- [Feb. 2026] Three papers for Vision-and-Language Navigation, Event-based Action Recognition, and Condensed Test-Time Adaptation of VLMs have been accepted by CVPR 2026. Congrats to Guangzhao, Meiqi, and Wenxuan.
-- [Feb. 2026] One paper for continuous action recognition has been accepted by IEEE TMM. Congrats to Xingyu.
-- [Feb. 2026] One paper for human generation has been accepted by IEEE TNNLS. Congrats to Chengjian.
-- [Feb. 2026] One paper for spatiotemporal prompt has been accepted by IEEE TPAMI. Congrats to Hongyu.
-- [Nov. 2025] One paper has received the Best Paper Award at CCBR 2025. Congrats to Peng.
-- Two papers (The first authors are PhD candidates from NJUST) have been accepted by AAAI 2026.
-- I have received the Associate Editor (AE) of IEEE Transactions on Information Forensics and Security (TIFS).
-- Three papers have been accepted by NeurIPS 2025.
-- Four papers have been accepted by ICCV 2025.
-- One paper "Reliable and Diverse Hierarchical Adapter for Zero-shot Video Classification" has been accepted by IJCAI 2025.
-I was invited to serve as an Area Chair for ACM MM 2025.
-- Two Papers have been published in TNNLS 2025.
-- One paper "Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection" has been accepted by CVPR 2025.
-- One paper "Surgical video workflow analysis via visual-language learning" has been accepted by npj Health Systems.
-- One paper has been accepted by ICLR 2024.
-- Two papers "3D-aware Select, Expand, and Squeeze Token for Aerial Action Recognition", and "Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection" have been accepted by AAAI 2024.
-- One paper "DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting" has been accepted by NeurIPS 2024.
-- One paper "DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition" has been accepted by IJCAI 2024.
-- Our work GPT4Ego targeting on Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition was accepted by TMM.
-- Our work (Semantic-Disentangled Transformer) was accepted by TIP.
+<!-- 开始：滚动容器 -->
+<div style="
+    max-height: 400px; 
+    overflow-y: auto; 
+    border: 1px solid #e1e4e8; 
+    border-radius: 6px;
+    padding: 15px;
+    font-size: 15px;
+    color: #494e52;
+    font-family: sans-serif;
+    line-height: 1.6;
+    box-sizing: border-box;
+    -webkit-text-size-adjust: 100%;">
+
+  <!-- 注意：这里必须用 HTML 的 ul/li 标签，不能用 Markdown 的 - -->
+  <ul style="padding-left: 20px; margin: 0;">
+    <li>[Feb. 2026] Three papers for Vision-and-Language Navigation, Event-based Action Recognition, and Condensed Test-Time Adaptation of VLMs have been accepted by CVPR 2026. Congrats to Guangzhao, Meiqi, and Wenxuan.</li>
+    <li>[Feb. 2026] One paper for continuous action recognition has been accepted by IEEE TMM. Congrats to Xingyu.</li>
+    <li>[Feb. 2026] One paper for human generation has been accepted by IEEE TNNLS. Congrats to Chengjian.</li>
+    <li>[Feb. 2026] One paper for spatiotemporal prompt has been accepted by IEEE TPAMI. Congrats to Hongyu.</li>
+    <li>[Nov. 2025] One paper has received the Best Paper Award at CCBR 2025. Congrats to Peng.</li>
+    <li>Two papers (The first authors are PhD candidates from NJUST) have been accepted by AAAI 2026.</li>
+    <li>I have received the Associate Editor (AE) of IEEE Transactions on Information Forensics and Security (TIFS).</li>
+    <li>Three papers have been accepted by NeurIPS 2025.</li>
+    <li>Four papers have been accepted by ICCV 2025.</li>
+    <li>One paper "Reliable and Diverse Hierarchical Adapter for Zero-shot Video Classification" has been accepted by IJCAI 2025.</li>
+    <li>I was invited to serve as an Area Chair for ACM MM 2025.</li>
+    <li>Two Papers have been published in TNNLS 2025.</li>
+    <li>One paper "Seeing What Matters: Empowering CLIP with Patch Generation-to-Selection" has been accepted by CVPR 2025.</li>
+    <li>One paper "Surgical video workflow analysis via visual-language learning" has been accepted by npj Health Systems.</li>
+    <li>One paper has been accepted by ICLR 2024.</li>
+    <li>Two papers "3D-aware Select, Expand, and Squeeze Token for Aerial Action Recognition", and "Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection" have been accepted by AAAI 2024.</li>
+    <li>One paper "DoFIT: Domain-aware Federated Instruction Tuning with Alleviated Catastrophic Forgetting" has been accepted by NeurIPS 2024.</li>
+    <li>One paper "DTS-TPT: Dual Temporal-Sync Test-time Prompt Tuning for Zero-shot Activity Recognition" has been accepted by IJCAI 2024.</li>
+    <li>Our work GPT4Ego targeting on Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition was accepted by TMM.</li>
+    <li>Our work (Semantic-Disentangled Transformer) was accepted by TIP.</li>
+  </ul>
+</div>
 
 
 <span class='anchor' id='pub'></span>
@@ -74,6 +92,46 @@ I was invited to serve as an Area Chair for ACM MM 2025.
 </style>
 
 <table align="center" border="none">
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/dgz-EvoINav.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Guangzhao Dai, Shuo Wang, Zihan Wang, Guoshen Xie, Yang Yang, Jinshan Pan, Qianru Sun, <b>Xiangbo Shu*</b>. HISTORY TO FUTURE: Evolving Agent with Experience and Thought for Zero-shot Vision-and-Language Navigation. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/cmq-EventPoker.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Meiqi Cao, Jiachao Zhang*, Xin Jiang, Rui Yan, Yazhou Yao, Zechao Li, <b>Xiangbo Shu*</b>. Seeing Motion Through Polarity for Event-based Action Recognition. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/gwx-CONDA.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Wenxuan Ge, Hongyu Qu, Rui Yan*, Guosen Xie, Yazhou Yao, <b>Xiangbo Shu*</b>, Jinhui Tang. Condensed Test-Time Adaptation of VLMs for Action Recognition. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="left" width="330" height="240" src="../images/qhy-DIST.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        Hongyu Qu, <b>Xiangbo Shu*</b>, Rui Yan, Hailiang Gao, Wenguan Wang, Jinhui Tang. Spatio-temporal Decoupled Knowledge Compensator for Few-Shot Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
+        </p>
+      </td>
+    </tr>
     <tr>
       <td>
         <img align="left" width="330" height="240" src="../images/Te-LoRA.png"/>
