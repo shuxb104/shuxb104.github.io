@@ -41,7 +41,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 # <font color="#2B6ADD"> News </font>
 <!-- 开始：滚动容器 -->
 <div style="
-    max-height: 400px; 
+    max-height: 160px; 
     overflow-y: auto; 
     border: 1px solid #e1e4e8; 
     border-radius: 6px;
@@ -129,6 +129,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
       <td>
         <p text-align="left">
         Hongyu Qu, <b>Xiangbo Shu*</b>, Rui Yan, Hailiang Gao, Wenguan Wang, Jinhui Tang. Spatio-temporal Decoupled Knowledge Compensator for Few-Shot Action Recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
+        <a href="https://arxiv.org/pdf/2602.18043">[PDF-Link]</a>
         </p>
       </td>
     </tr>

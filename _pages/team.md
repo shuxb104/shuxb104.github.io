@@ -187,8 +187,24 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   }
 </style>
 
+# <font color="#2B6ADD"> Faculty Member </font>
+<div class="row custom-grid">
+  <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/xbq.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0"><a href="https://1xbq1.github.io/">Binqian Xu</a></h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold"> Research Fellow</p>
+              <p class="mb-neg-2">Ph.D. (2022 ~ 2026)</p>
+          </div>
+      </div> 
+  </div>
+</div>
 
-# <font color="#2B6ADD"> Current Member </font>
+# <font color="#2B6ADD"> Current Student </font>
 
 <div class="row custom-grid">
     <div class="col">
@@ -205,19 +221,6 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           </div>
       </div> 
     </div>
-  <div class="col">
-      <div class="card d-flex flex-column h-100 text-center">
-          <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/xbq.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
-          </div>
-          <div class="card-body">
-              <!-- text-uppercase -->
-              <h6 class="card-title mb-0"><a href="https://1xbq1.github.io/">Binqian Xu</a></h6>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidate</p>
-              <p class="mb-neg-2">2022 ~ Present</p>
-          </div>
-      </div> 
-  </div>
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
@@ -554,6 +557,20 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
 
 
 <div class="row custom-grid">
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/hp.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Peng Huang</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(co-supervise)</p>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. (2020 ~ 2025)</p>
+              <p class="mb-neg-2">NFU</p>
+          </div>
+      </div> 
+    </div>
   <div class="col">
     <div class="card d-flex flex-column h-100 text-center">
         <div class="px-3 mt-3">
