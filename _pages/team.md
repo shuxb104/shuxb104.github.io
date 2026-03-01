@@ -202,25 +202,17 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           </div>
       </div> 
   </div>
+  <div class="col">
+  </div>
+  <div class="col">
+  </div>
+  <div class="col">
+  </div>
 </div>
 
 # <font color="#2B6ADD"> Current Student </font>
 
 <div class="row custom-grid">
-    <div class="col">
-      <div class="card d-flex flex-column h-100 text-center">
-          <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/hp.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
-          </div>
-          <div class="card-body">
-              <!-- text-uppercase -->
-              <h6 class="card-title mb-0">Peng Huang</h6>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(co-supervise)</p>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidates</p>
-              <p class="mb-neg-2">2020 ~ Present</p>
-          </div>
-      </div> 
-    </div>
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">

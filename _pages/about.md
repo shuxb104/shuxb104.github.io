@@ -43,7 +43,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 <div style="
     max-height: 160px; 
     overflow-y: auto; 
-    border: 1px solid #e1e4e8; 
+    /* border: 1px solid #e1e4e8;  */
     border-radius: 6px;
     padding: 15px;
     font-size: 15px;
