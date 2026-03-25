@@ -54,6 +54,7 @@ Human behavior computing, Video understanding, Action analysis, and other relate
 
   <!-- 注意：这里必须用 HTML 的 ul/li 标签，不能用 Markdown 的 - -->
   <ul style="padding-left: 20px; margin: 0;">
+    <li>[Mar. 2026] One paper for Spatial and Temporal Prompt has been accepted by TPAMI. Congrats to Hongyu.</li>
     <li>[Feb. 2026] Three papers for Vision-and-Language Navigation, Event-based Action Recognition, and Condensed Test-Time Adaptation of VLMs have been accepted by CVPR 2026. Congrats to Guangzhao, Meiqi, and Wenxuan.</li>
     <li>[Feb. 2026] One paper for continuous action recognition has been accepted by IEEE TMM. Congrats to Xingyu.</li>
     <li>[Feb. 2026] One paper for human generation has been accepted by IEEE TNNLS. Congrats to Chengjian.</li>
