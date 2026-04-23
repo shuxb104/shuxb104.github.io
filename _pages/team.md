@@ -210,10 +210,9 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   </div>
 </div>
 
-# <font color="#2B6ADD"> Current Students </font>
-
+# <font color="#2B6ADD"> Project Leaders </font>
 <div class="row custom-grid">
-  <div class="col">
+    <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
             <img src="{{ '/images/team/current/dgz.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
@@ -226,8 +225,9 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
               <p class="mb-neg-2">2022 ~ Present</p>
           </div>
       </div> 
-  </div>
-  <div class="col">
+    </div>
+
+    <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
             <img src="{{ '/images/team/current/lpp.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
@@ -240,8 +240,9 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
               <p class="mb-neg-2">2023 ~ Present</p>
           </div>
       </div> 
-  </div>
-  <div class="col">
+    </div>
+
+    <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
             <img src="{{ '/images/team/current/cmq.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
@@ -254,7 +255,28 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
               <p class="mb-neg-2">2023 ~ Present</p>
           </div>
       </div> 
-  </div>
+    </div>
+
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/qhy.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0"><a href="https://quhongyu.github.io/">Hongyu Qu</a></h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(Project Leader)</p>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidate</p>
+              <p class="mb-neg-2">2024 ~ Present</p>
+          </div>
+      </div> 
+    </div>
+</div>
+# <font color="#2B6ADD"> Current Students </font>
+
+<div class="row custom-grid">
+  
+
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
@@ -269,20 +291,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           </div>
       </div> 
   </div>
-  <div class="col">
-      <div class="card d-flex flex-column h-100 text-center">
-          <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/qhy.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
-          </div>
-          <div class="card-body">
-              <!-- text-uppercase -->
-              <h6 class="card-title mb-0"><a href="https://quhongyu.github.io/">Hongyu Qu</a></h6>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(Project Leader)</p>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidate</p>
-              <p class="mb-neg-2">2024 ~ Present</p>
-          </div>
-      </div> 
-  </div>
+
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
@@ -389,32 +398,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           </div>
       </div> 
   </div>
-  <div class="col">
-      <div class="card d-flex flex-column h-100 text-center">
-          <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/sym.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
-          </div>
-          <div class="card-body">
-              <!-- text-uppercase -->
-              <h6 class="card-title mb-0">Yumeng Su</h6>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidate</p>
-              <p class="mb-neg-2">2023 ~ Present</p>
-          </div>
-      </div> 
-  </div>
-  <div class="col">
-      <div class="card d-flex flex-column h-100 text-center">
-          <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/ply.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
-          </div>
-          <div class="card-body">
-              <!-- text-uppercase -->
-              <h6 class="card-title mb-0">Luying Peng</h6>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. Candidate</p>
-              <p class="mb-neg-2">2023 ~ Present</p>
-          </div>
-      </div> 
-  </div>
+
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
@@ -553,6 +537,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
 
 
 <div class="row custom-grid">
+
     <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
@@ -778,18 +763,44 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
         </div>
     </div> 
   </div>
+    <div class="col">
+        <div class="card d-flex flex-column h-100 text-center">
+            <div class="px-3 mt-3">
+            <img src="{{ '/images/team/alumni/lw.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+            </div>
+            <div class="card-body">
+                <!-- text-uppercase -->
+                <h6 class="card-title mb-0">Wei Liu</h6>
+                <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(co-supervise)</p>
+                <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2022 ~ 2025)</p>
+                <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">SEU</p>
+            </div>
+        </div> 
+    </div>
+    <div class="col">
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/sym.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+              <h6 class="card-title mb-0">Yumeng Su</h6>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2023 ~ 2026)</p>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Asiainfo</p>
+          </div>
+      </div> 
+    </div>
   <div class="col">
-    <div class="card d-flex flex-column h-100 text-center">
-        <div class="px-3 mt-3">
-          <img src="{{ '/images/team/alumni/lw.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
-        </div>
-        <div class="card-body">
-            <!-- text-uppercase -->
-            <h6 class="card-title mb-0">Wei Liu</h6>
-            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(co-supervise)</p>
-            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2022 ~ 2025)</p>
-            <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">SEU</p>
-        </div>
-    </div> 
+      <div class="card d-flex flex-column h-100 text-center">
+          <div class="px-3 mt-3">
+            <img src="{{ '/images/team/current/ply.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+          </div>
+          <div class="card-body">
+              <!-- text-uppercase -->
+                <h6 class="card-title mb-0">Luying Peng</h6>
+                <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2023 ~ 2026)</p>
+                <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Full Truck Alliance</p>    
+          </div>
+      </div> 
   </div>
 </div>
