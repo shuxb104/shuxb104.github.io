@@ -786,7 +786,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
               <!-- text-uppercase -->
               <h6 class="card-title mb-0">Yumeng Su</h6>
               <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2023 ~ 2026)</p>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Asiainfo</p>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Asiainfo, Nanjing</p>
           </div>
       </div> 
     </div>
@@ -799,7 +799,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
               <!-- text-uppercase -->
                 <h6 class="card-title mb-0">Luying Peng</h6>
                 <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">M.S. (2023 ~ 2026)</p>
-                <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Full Truck Alliance</p>    
+                <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">FTA, Nanjing</p>    
           </div>
       </div> 
   </div>
