@@ -202,16 +202,6 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           </div>
       </div> 
   </div>
-  <div class="col">
-  </div>
-  <div class="col">
-  </div>
-  <div class="col">
-  </div>
-</div>
-
-# <font color="#2B6ADD"> Project Leaders </font>
-<div class="row custom-grid">
     <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
@@ -220,12 +210,20 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           <div class="card-body">
               <!-- text-uppercase -->
               <h6 class="card-title mb-0">Guangzhao Dai</h6>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">(Project Leader)</p>
               <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidate</p>
-              <p class="mb-neg-2">2022 ~ Present</p>
+              <p class="mb-neg-2">2022 ~ 2026</p>
           </div>
       </div> 
     </div>
+  <div class="col">
+  </div>
+  <div class="col">
+  </div>
+</div>
+
+# <font color="#2B6ADD"> Project Leaders </font>
+<div class="row custom-grid">
+
 
     <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
