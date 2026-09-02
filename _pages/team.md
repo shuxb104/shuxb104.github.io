@@ -416,20 +416,6 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/klq.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
-          </div>
-          <div class="card-body">
-              <!-- text-uppercase -->
-              <h6 class="card-title mb-0">Lingqi Kong</h6>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidate</p>
-              <p class="mb-neg-2">2026 ~ Present</p>
-          </div>
-      </div> 
-  </div>
-
-  <div class="col">
-      <div class="card d-flex flex-column h-100 text-center">
-          <div class="px-3 mt-3">
             <img src="{{ '/images/team/current/26b-klq.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
           </div>
           <div class="card-body">
