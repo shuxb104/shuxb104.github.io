@@ -416,7 +416,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/26b-klq.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+            <img src="{{ '/images/team/current/26b-klq.avif' | relative_url }}" class="card-img mb-neg-2" alt="">
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
@@ -430,7 +430,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/26b-lj.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+            <img src="{{ '/images/team/current/26b-lj.avif' | relative_url }}" class="card-img mb-neg-2" alt="">
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
@@ -446,7 +446,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/26b-pwl.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+            <img src="{{ '/images/team/current/26b-pwl.avif' | relative_url }}" class="card-img mb-neg-2" alt="">
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
@@ -460,7 +460,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/26b-sh.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+            <img src="{{ '/images/team/current/26b-sh.avif' | relative_url }}" class="card-img mb-neg-2" alt="">
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
@@ -474,7 +474,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/26b-xzh.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+            <img src="{{ '/images/team/current/26b-xzh.avif' | relative_url }}" class="card-img mb-neg-2" alt="">
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
@@ -488,7 +488,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/26b-zy.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+            <img src="{{ '/images/team/current/26b-zy.avif' | relative_url }}" class="card-img mb-neg-2" alt="">
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
@@ -624,7 +624,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
     <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/26s-cjq.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+            <img src="{{ '/images/team/current/26s-cjq.avif' | relative_url }}" class="card-img mb-neg-2" alt="">
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
@@ -637,7 +637,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/26s-gc.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+            <img src="{{ '/images/team/current/26s-gc.avif' | relative_url }}" class="card-img mb-neg-2" alt="">
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
@@ -651,7 +651,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
   <div class="col">
       <div class="card d-flex flex-column h-100 text-center">
           <div class="px-3 mt-3">
-            <img src="{{ '/images/team/current/26s-wyd.webp' | relative_url }}" class="card-img mb-neg-2" alt="">
+            <img src="{{ '/images/team/current/26s-wyd.avif' | relative_url }}" class="card-img mb-neg-2" alt="">
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
