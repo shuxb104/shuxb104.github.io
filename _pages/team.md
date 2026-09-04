@@ -450,7 +450,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           </div>
           <div class="card-body">
               <!-- text-uppercase -->
-              <h6 class="card-title mb-0">Wenli Pu</h6>
+              <h6 class="card-title mb-0">Wenli Bu</h6>
               <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidate</p>
               <p class="mb-neg-2">2026 ~ Present</p>
           </div>
