@@ -197,7 +197,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           <div class="card-body">
               <!-- text-uppercase -->
               <h6 class="card-title mb-0"><a href="https://1xbq1.github.io/">Binqian Xu</a></h6>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold"> Research Fellow</p>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold"> Research Fellow </p>
               <p class="mb-neg-2">Ph.D. (2022 ~ 2026)</p>
           </div>
       </div> 
@@ -210,7 +210,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
           <div class="card-body">
               <!-- text-uppercase -->
               <h6 class="card-title mb-0">Guangzhao Dai</h6>
-              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold">Ph.D. Candidate</p>
+              <p class="card-text mb-neg-1 fs--1 text-primary fw-bold"> Research Fellow </p>
               <p class="mb-neg-2">2022 ~ 2026</p>
           </div>
       </div> 
