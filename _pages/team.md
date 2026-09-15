@@ -211,7 +211,7 @@ VIM@IMAG, focus on Visual and Intelligence Multimedia, is a group of the <a href
               <!-- text-uppercase -->
               <h6 class="card-title mb-0">Guangzhao Dai</h6>
               <p class="card-text mb-neg-1 fs--1 text-primary fw-bold"> Research Fellow </p>
-              <p class="mb-neg-2">2022 ~ 2026</p>
+              <p class="mb-neg-2">Ph.D. (2022 ~ 2026)</p>
           </div>
       </div> 
     </div>
